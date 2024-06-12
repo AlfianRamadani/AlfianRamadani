@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I once almost drowned at the beach
 
 ![Alfian Ramadani GitHub stats](https://github-readme-stats.vercel.app/api?username=AlfianRamadani&show_icons=true&theme=dracula)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfianRamadani&repo=github-readme-stats)](https://github.com/AlfianRamadani/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfianRamadani&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AlfianRamadani/AlfianRamadani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
