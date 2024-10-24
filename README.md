@@ -8,6 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once almost drowned at the beach
 
+<!--
 <div align="center">
     <img height="30" src="https://komarev.com/ghpvc/?username=AlfianRamadani"/>
 </div>
@@ -25,3 +26,5 @@
         <img src="https://streak-stats.demolab.com?user=alfianramadani" alt="GitHub Streak" />
     </a>
 </div>
+-->
+
