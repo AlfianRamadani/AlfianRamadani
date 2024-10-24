@@ -1,3 +1,4 @@
+<!--
 ## 😎 Hey Hey, It is Alfian
 
 - 🔭 I’m currently a student at SMK Negeri 2 Balikpapan
@@ -8,7 +9,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once almost drowned at the beach
 
-<!--
 <div align="center">
     <img height="30" src="https://komarev.com/ghpvc/?username=AlfianRamadani"/>
 </div>
@@ -27,4 +27,3 @@
     </a>
 </div>
 -->
-
