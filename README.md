@@ -1,4 +1,3 @@
-<!--
 ## 😎 Hey Hey, It is Alfian
 
 - 🔭 I’m currently a student at SMK Negeri 2 Balikpapan
@@ -26,4 +25,3 @@
         <img src="https://streak-stats.demolab.com?user=alfianramadani" alt="GitHub Streak" />
     </a>
 </div>
--->
