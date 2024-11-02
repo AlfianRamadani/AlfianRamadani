@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently a student at SMK Negeri 2 Balikpapan
 - 🌱 I’m currently learning React Js & Laravel
-- 🤔 I’m looking for help with TypeScript
 - 💬 Ask me about anything
 - 📫 How to reach me: [Instagram](https://your-instagram-link)
 - 😄 Pronouns: He/Him
