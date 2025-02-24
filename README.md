@@ -1,2 +1,2 @@
-## 😎 Hey Hey, It is Alfian
+## 😎 Hey Hey, It's Alfian
 im curently sleepp
